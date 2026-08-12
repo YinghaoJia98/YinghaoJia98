@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the perception and planning of robots.**
 
-- 📫 How to reach me **yinghaojia@163.com**. <a href="https://www.youtube.com/@decemberd-hit" target="blank"><img align="center" src="images/youtube.svg" alt="december98" height="30" width="40" /></a>
+- 📫 How to reach me **yinghaojia@163.com**. <a href="https://www.youtube.com/@decemberd-hit" target="blank"><img align="center" src="images/youtube.svg" alt="december98" height="20" width="20" /></a>
 
 <h3 align="left">Publications:</h3>
 <ul>
